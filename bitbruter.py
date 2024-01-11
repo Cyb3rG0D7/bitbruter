@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Coded by anomobb
+# Coded by dazmed707
 
 import hashlib, random, os, binascii, ecdsa, base58, datetime, hmac, multiprocessing, pyperclip, PySimpleGUI as sg
 
