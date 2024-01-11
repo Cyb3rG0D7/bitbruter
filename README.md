@@ -11,7 +11,7 @@ Windows 7,8,8.1,10
 ```
 offline dictionary attack on btc wallets
 
-Donate to the author of this program: 1GmQaG9R5NPs3ZzR6XPMD9jZk17F9MuoWn
+Donate BTC to the author of this program: 1F5a4HDtNvXq2V1kGqq4BbCsXNsjwvZfBi
 ```
 
 # Usage:
